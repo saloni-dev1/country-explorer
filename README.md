@@ -1,4 +1,5 @@
-<img width="1850" height="959" alt="Screenshot from 2025-07-22 09-11-20" src="https://github.com/user-attachments/assets/e0056000-e972-46d7-8189-54c3113df47a" /># Country Explorer 🌍
+<img width="1850" height="959" alt="Screenshot from 2025-07-22 09-11-20" src="https://github.com/user-attachments/assets/e0056000-e972-46d7-8189-54c3113df47a" />
+# Country Explorer 🌍
 
 A modern, responsive web app to explore countries around the world. Built with Next.js, TypeScript, and TailwindCSS. Instantly search, browse, and view detailed information about every country using the REST Countries API.
 
@@ -21,9 +22,6 @@ A modern, responsive web app to explore countries around the world. Built with N
 - [TailwindCSS](https://tailwindcss.com/)
 - [REST Countries API](https://restcountries.com/)
 - [Google Fonts: Inter](https://fonts.google.com/specimen/Inter)
-
-## Screenshots
-![Description](<img width="1850" height="959" alt="Screenshot from 2025-07-22 09-11-20" src="https://github.com/user-attachments/assets/8dfea7c6-b366-4e9b-9865-a8b081cb1c91" />)
     
 
 ## Getting Started
