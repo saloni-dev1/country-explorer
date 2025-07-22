@@ -1,5 +1,6 @@
-<img width="1850" height="959" alt="Screenshot from 2025-07-22 09-11-20" src="https://github.com/user-attachments/assets/e0056000-e972-46d7-8189-54c3113df47a" />
 # Country Explorer 🌍
+
+<img width="1850" height="959" alt="Screenshot from 2025-07-22 09-11-20" src="https://github.com/user-attachments/assets/e0056000-e972-46d7-8189-54c3113df47a" />
 
 A modern, responsive web app to explore countries around the world. Built with Next.js, TypeScript, and TailwindCSS. Instantly search, browse, and view detailed information about every country using the REST Countries API.
 
@@ -8,7 +9,6 @@ A modern, responsive web app to explore countries around the world. Built with N
 - 🔍 **Instant Search:** Filter countries as you type
 - 🗺️ **Responsive Grid:** Beautiful country cards with flags and names
 - 🌙 **Dark Mode:** Toggle between light and dark themes
-- 🏷️ **Material/Neumorphic Design:** Soft shadows, rounded corners, and color accents
 - 📄 **Country Details:** Large flag, official name, capital, region, population, languages, currencies, and more
 - 🧭 **Icons for Details:** Visual hierarchy for key info
 - ⏪ **Fast Back Navigation:** Native-feeling back button
